@@ -36,6 +36,11 @@ const Navbar = () => {
                 Home <span className="sr-only">(current)</span>
               </Link>
             </li>
+            <li className="nav-item active">
+              <Link className="nav-link" to="/home2">
+                Home2 <span className="sr-only">(current)</span>
+              </Link>
+            </li>
             <li className="nav-item">
               <Link to="/counter" className="nav-link">
                 Counter
