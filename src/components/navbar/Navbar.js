@@ -26,7 +26,7 @@ const Navbar = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
         <Link className="navbar-brand" to="/">
-          AmmaZan.in .
+          AmmaZan.in
         </Link>
 
         <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
